@@ -5,7 +5,8 @@ MongoDB is a general purpose, document-based, distributed database built for mod
 <ul>
     <li><a href="https://docs.mongodb.com/manual/administration/install-community/">MongoDB Manual </a></li> 
     <li><a href="https://university.mongodb.com/courses/catalog">MongoDB University</a></li> 
-    <li><a href="https://mongoosejs.com/">Mongoose</a></li> 
+    <li><a href="https://mongoosejs.com/">Mongoose</a></li>  
+    <li><a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas - cloud database as a service </a>(for deployment purposes)</li>
 </ul>
 
 # Other Useful Resources:
